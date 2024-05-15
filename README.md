@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 Have any questions or suggestions? Feel free to contact me at.
-- ![Linkedin](https://www.linkedin.com/in/loganathan26/)
+ - [Linkedin](https://www.linkedin.com/in/loganathan26/)
 
 Let's connect on LinkedIn!
 
