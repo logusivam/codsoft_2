@@ -39,6 +39,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Have any questions or suggestions? Feel free to contact me at.
  - [Mail-Loganathan](logusivam26@gmail.com)
 
-Let's connect on [LinkedIn!](https://www.linkedin.com/in/loganathan26/)
+ - Let's connect on [LinkedIn!](https://www.linkedin.com/in/loganathan26/)
 
 Happy coding! 😊🚀
