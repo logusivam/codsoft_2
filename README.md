@@ -18,8 +18,6 @@ This portfolio showcases my projects and skills as a web developer. It's built u
    ```bash
    git clone https://github.com/logusivam/codsoft_2.git
 
-2. Open the index.html file in your web browser.
-
 ## Projects
 Here are some of the projects featured in this portfolio:
 
@@ -39,8 +37,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 Have any questions or suggestions? Feel free to contact me at.
- - [Linkedin](https://www.linkedin.com/in/loganathan26/)
+ - [Mail-Loganathan](logusivam26@gmail.com)
 
-Let's connect on LinkedIn!
+Let's connect on [LinkedIn!](https://www.linkedin.com/in/loganathan26/)
 
 Happy coding! 😊🚀
